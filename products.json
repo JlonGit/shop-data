@@ -11,35 +11,8 @@
       "description": "gferg",
       "addTime": "2025-01-27T12:44:39.471Z",
       "image": "https://pic.jlon.top/i/2025/01/27/xt6htp-0.png"
-    },
-    {
-      "id": 1737991829003,
-      "name": "1231",
-      "price": "12",
-      "category": "其他",
-      "stock": "23",
-      "priceUnit": "￥",
-      "stockUnit": "个",
-      "description": "咯咯咯",
-      "addTime": "2025-01-27T15:30:29.003Z",
-      "image": "https://pic.jlon.top/i/2025/01/27/12jdtwo-0.jpg"
     }
   ],
-  "systemSettings": {
-    "categories": [
-      "食品",
-      "图书",
-      "22"
-    ],
-    "priceUnits": [
-      "元/米"
-    ],
-    "stockUnits": [
-      "根"
-    ],
-    "defaultPriceUnit": "元/米",
-    "defaultStockUnit": "根"
-  },
-  "lastUpdate": "2025-01-27T15:55:24.089Z",
+  "lastUpdate": "2025-01-27T16:02:02.690Z",
   "version": "1.0"
 }
