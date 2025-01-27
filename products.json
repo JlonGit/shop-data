@@ -10,8 +10,20 @@
       "stockUnit": "个",
       "description": "次粗犷臭",
       "image": "https://pic.jlon.top/i/2025/01/27/wabwk9-0.jpg"
+    },
+    {
+      "id": 1737980206435,
+      "name": "管子",
+      "price": "23",
+      "category": "1",
+      "stock": "23",
+      "priceUnit": "元/米",
+      "stockUnit": "根",
+      "description": "gterhrth海染套会",
+      "addTime": "2025-01-27T12:16:46.435Z",
+      "image": "https://pic.jlon.top/i/2025/01/27/xcjoms-0.png"
     }
   ],
-  "lastUpdate": "2025-01-27T11:57:52.865Z",
+  "lastUpdate": "2025-01-27T12:16:46.436Z",
   "version": "1.0"
 }
