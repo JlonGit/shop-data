@@ -22,8 +22,20 @@
       "description": "gterhrth海染套会",
       "addTime": "2025-01-27T12:16:46.435Z",
       "image": "https://pic.jlon.top/i/2025/01/27/xcjoms-0.png"
+    },
+    {
+      "id": 1737981879471,
+      "name": "1231",
+      "price": "12",
+      "category": "图书",
+      "stock": "23",
+      "priceUnit": "￥",
+      "stockUnit": "个",
+      "description": "gferg",
+      "addTime": "2025-01-27T12:44:39.471Z",
+      "image": "https://pic.jlon.top/i/2025/01/27/xt6htp-0.png"
     }
   ],
-  "lastUpdate": "2025-01-27T12:16:46.436Z",
+  "lastUpdate": "2025-01-27T12:44:39.471Z",
   "version": "1.0"
 }
