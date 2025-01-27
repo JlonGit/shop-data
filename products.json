@@ -13,6 +13,21 @@
       "image": "https://pic.jlon.top/i/2025/01/27/xt6htp-0.png"
     }
   ],
-  "lastUpdate": "2025-01-27T16:02:02.690Z",
+  "systemSettings": {
+    "categories": [
+      "食品",
+      "图书",
+      "22"
+    ],
+    "priceUnits": [
+      "元/米"
+    ],
+    "stockUnits": [
+      "根"
+    ],
+    "defaultPriceUnit": "元/米",
+    "defaultStockUnit": "根"
+  },
+  "lastUpdate": "2025-01-27T16:02:46.257Z",
   "version": "1.0"
 }
