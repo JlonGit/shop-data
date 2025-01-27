@@ -1,6 +1,18 @@
 {
   "products": [
     {
+      "id": 1737981879471,
+      "name": "1231",
+      "price": "12",
+      "category": "图书",
+      "stock": "23",
+      "priceUnit": "￥",
+      "stockUnit": "个",
+      "description": "gferg",
+      "addTime": "2025-01-27T12:44:39.471Z",
+      "image": "https://pic.jlon.top/i/2025/01/27/xt6htp-0.png"
+    },
+    {
       "id": 1737987777653,
       "name": "三大高手",
       "price": "2",
@@ -11,8 +23,20 @@
       "description": "fewfger",
       "addTime": "2025-01-27T14:22:57.653Z",
       "image": "https://pic.jlon.top/i/2025/01/27/10r9hax-0.png"
+    },
+    {
+      "id": 1737991729449,
+      "name": "三大高手",
+      "price": "12",
+      "category": "食品",
+      "stock": "12",
+      "priceUnit": "元/米",
+      "stockUnit": "根",
+      "description": "qweqfw",
+      "addTime": "2025-01-27T15:28:49.449Z",
+      "image": "https://pic.jlon.top/i/2025/01/27/12i9qpu-0.png"
     }
   ],
-  "lastUpdate": "2025-01-27T15:28:17.418Z",
+  "lastUpdate": "2025-01-27T15:28:49.450Z",
   "version": "1.0"
 }
