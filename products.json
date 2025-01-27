@@ -46,8 +46,20 @@
       "description": "fewfger",
       "addTime": "2025-01-27T14:22:57.653Z",
       "image": "https://pic.jlon.top/i/2025/01/27/10r9hax-0.png"
+    },
+    {
+      "id": 1737987779121,
+      "name": "三大高手",
+      "price": "2",
+      "category": "图书",
+      "stock": "213",
+      "priceUnit": "元/米",
+      "stockUnit": "根",
+      "description": "fewfger",
+      "addTime": "2025-01-27T14:22:59.121Z",
+      "image": "https://pic.jlon.top/i/2025/01/27/10r9hax-0.png"
     }
   ],
-  "lastUpdate": "2025-01-27T14:22:57.653Z",
+  "lastUpdate": "2025-01-27T14:22:59.121Z",
   "version": "1.0"
 }
