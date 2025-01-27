@@ -1,5 +1,18 @@
 {
-  "products": [],
-  "lastUpdate": "2025-01-27T11:50:26.927Z",
+  "products": [
+    {
+      "id": 1737978752549,
+      "name": "2537",
+      "price": "21",
+      "category": "食品",
+      "stock": "1",
+      "priceUnit": "￥",
+      "stockUnit": "个",
+      "description": "次粗犷臭",
+      "addTime": "2025-01-27T11:52:32.549Z",
+      "image": "http://pic.jlon.top/i/2025/01/27/wabwk9-0.jpg"
+    }
+  ],
+  "lastUpdate": "2025-01-27T11:52:32.550Z",
   "version": "1.0"
 }
