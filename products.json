@@ -1,17 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1737975988281,
-      "name": "1",
-      "price": "1",
-      "category": "1",
-      "stock": "21",
-      "priceUnit": "元/米",
-      "stockUnit": "根",
-      "description": "给对方郭德纲",
-      "image": "http://pic.jlon.top/i/2025/01/27/viy9hr-0.png"
-    }
-  ],
-  "lastUpdate": "2025-01-27T11:20:00.871Z",
+  "products": [],
+  "lastUpdate": "2025-01-27T11:50:26.927Z",
   "version": "1.0"
 }
