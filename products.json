@@ -1,17 +1,6 @@
 {
   "products": [
     {
-      "id": 1737978752549,
-      "name": "2537",
-      "price": "21",
-      "category": "食品",
-      "stock": "1",
-      "priceUnit": "￥",
-      "stockUnit": "个",
-      "description": "次粗犷臭",
-      "image": "https://pic.jlon.top/i/2025/01/27/wabwk9-0.jpg"
-    },
-    {
       "id": 1737980206435,
       "name": "管子",
       "price": "23",
@@ -48,6 +37,6 @@
       "image": "https://pic.jlon.top/i/2025/01/27/10r9hax-0.png"
     }
   ],
-  "lastUpdate": "2025-01-27T14:26:45.658Z",
+  "lastUpdate": "2025-01-27T14:56:08.168Z",
   "version": "1.0"
 }
