@@ -1,17 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1737981879471,
-      "name": "1231",
-      "price": "12",
-      "category": "食品",
-      "stock": "23",
-      "priceUnit": "元/米",
-      "stockUnit": "根",
-      "description": "gferg",
-      "image": "https://pic.jlon.top/i/2025/01/27/xt6htp-0.png"
-    }
-  ],
+  "products": [],
   "systemSettings": {
     "categories": [
       "食品",
@@ -27,6 +15,6 @@
     "defaultPriceUnit": "元/米",
     "defaultStockUnit": "根"
   },
-  "lastUpdate": "2025-01-27T16:40:33.484Z",
+  "lastUpdate": "2025-01-28T09:40:32.144Z",
   "version": "1.0"
 }
