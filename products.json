@@ -1,5 +1,18 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1738156396590,
+      "name": "管子",
+      "price": "12",
+      "category": "食品",
+      "stock": "12",
+      "priceUnit": "元/米",
+      "stockUnit": "根",
+      "description": "hiugbig9g",
+      "addTime": "2025-01-29T13:13:16.590Z",
+      "image": "https://pic.jlon.top/i/2025/01/29/yy4200-0.jpg"
+    }
+  ],
   "systemSettings": {
     "categories": [
       "食品",
@@ -15,6 +28,6 @@
     "defaultPriceUnit": "元/米",
     "defaultStockUnit": "根"
   },
-  "lastUpdate": "2025-01-28T09:42:07.918Z",
+  "lastUpdate": "2025-01-29T13:13:16.591Z",
   "version": "1.0"
 }
